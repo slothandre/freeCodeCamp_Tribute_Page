@@ -1,0 +1,51 @@
+#main {
+    background-color: #EEE;
+    border-radius: 5px;
+}
+
+#title {
+    text-align: center;
+    padding-top: 50px;
+}
+
+p {
+    text-align: center;
+}
+
+#tribute-info {
+    text-align: center;
+}
+
+li {
+    text-align: left;
+    margin-bottom: 20px
+}
+
+#img-div {
+    background-color: #FFF;
+    padding: 10px;
+}
+
+#image {
+    max-width: 100%;
+    height: auto;
+    width: auto;
+}
+
+img {
+    display: block;
+}
+
+#img-caption {
+    text-align: center;
+    margin-top: 15px;
+}
+
+article p {
+    font-style: italic;
+}
+
+section p {
+    font-size: 20px;
+    font-weight: bold;
+}
